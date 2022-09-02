@@ -22,4 +22,4 @@ SC DELETE aow_drv
 timeout 5
 
 "C:\Program Files\TxGameAssistant\ui\AndroidEmulatorEx.exe" -vm 100
-exit
+ EXIT /B
