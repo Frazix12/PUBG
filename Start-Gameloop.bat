@@ -18,8 +18,5 @@ net stop aow_drv
 net stop Tensafe
 SC STOP aow_drv
 SC DELETE aow_drv
-
-timeout 5
-
 "C:\Program Files\TxGameAssistant\ui\AndroidEmulatorEx.exe" -vm 100
- EXIT /B
+exit /b
